@@ -28,7 +28,7 @@ sudo bash -c 'cat > /var/www/html/index.html <<EOF
 <title>Welcome to My Web Page</title>
 </head>
 <body>
-<h1>Hello from VM1!</h1>
+<h1>Hello from VM2!</h1>
 <p>This is a simple web page hosted on my Apache server.</p>
 </body>
 </html>
